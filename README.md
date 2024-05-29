@@ -8,9 +8,6 @@ By exploring various aspects of player performance, we aim to uncover insights a
 
 ## Overview
 
-This repository contains analysis and visualizations of the player data from the NHL season 2023-2024. The goal is to uncover insights and trends in the performance and contracts of NHL players during this season.
-Data Description
-
 The dataset includes various statistics and attributes of NHL players from the 2023-2024 season. Below is an explanation of the columns included in the dataset:
 
 - DRAFTED: Draft information in the format draft number - round - year(team)
