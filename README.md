@@ -8,7 +8,7 @@ By exploring various aspects of player performance, we aim to uncover insights a
 
 ## Overview
 
-The dataset includes various statistics and attributes of NHL players from the 2023-2024 season. Below is an explanation of the columns included in the dataset:
+The dataset includes various statistics and attributes of NHL players from the 2023-2024 season. Below is an explanation some of the columns included in the dataset:
 
 - DRAFTED: Draft information in the format draft number - round - year(team)
 - GP: Games Played
