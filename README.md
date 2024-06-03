@@ -33,9 +33,7 @@ The dataset includes various statistics and attributes of NHL players from the 2
 - Visualize the data to identify patterns and trends.
 - Provide insights into player performance and contract details.
 
-
-
-## I will be creating various visualizations to provide quick insights into the data. Some of the visualizations will include:
+ I will be creating various visualizations to provide quick insights into the data. Some of the visualizations will include:
 
 - Distribution of player statistics (e.g., age, points, salary)
 - Analysis of contract types and lengths
